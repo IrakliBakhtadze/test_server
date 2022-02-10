@@ -1,0 +1,9 @@
+{
+  "DEV_PORT": 4001,
+  "PROD_PORT": 4001,
+  "DICTIONARY_URL": "http://localhost:4002",
+  "API_URL": "http://localhost:4001",
+  "CLIENT_URL": "http://localhost:4000",
+  "JWT_ACCESS_SECRET": "<<setsecret>>",
+  "JWT_REFRESH_SECRET": "<<setsecret>>"
+}

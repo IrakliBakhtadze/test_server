@@ -3,8 +3,6 @@ build
 dist
 coverage
 package-lock.json
-src/config/*.json
-src/configs/*.json
 src/logs/*.log*
 src/static/*
 stats.json
