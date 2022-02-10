@@ -1,0 +1,9 @@
+export {
+  DEV_PORT,
+  PROD_PORT,
+  DICTIONARY_URL,
+  API_URL,
+  CLIENT_URL,
+  JWT_ACCESS_SECRET,
+  JWT_REFRESH_SECRET,
+} from './app.json';
